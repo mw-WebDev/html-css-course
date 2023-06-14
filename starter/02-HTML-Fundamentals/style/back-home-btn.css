@@ -1,0 +1,20 @@
+/* Back Home Button Styles */
+.back-wrapper {
+	max-width: 10dvw;
+	height: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	background: gray;
+	margin: 0;
+	padding: 1.5dvw 0;
+	margin-top: 2dvw;
+	color: black;
+}
+
+.back-home-icon {
+	height: 1dvw;
+	width: auto;
+	margin: 0 1dvw 0 0;
+}
