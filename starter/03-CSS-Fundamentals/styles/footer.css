@@ -1,0 +1,23 @@
+#copyright {
+	font-size: 0.9dvw;
+}
+
+/* 
+    In the following snippets the selectors are used in the following order:
+    
+#copyright {
+	color: red;
+}
+
+.copyright {
+	color: blue;
+}
+
+.text {
+	color: yellow;
+}
+
+footer p {
+	color: green;
+}
+*/

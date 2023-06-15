@@ -1,0 +1,55 @@
+#author {
+	font-style: italic;
+}
+
+.related-author {
+	font-size: 0.75dvw;
+	font-weight: 900;
+	white-space: nowrap;
+}
+
+.related-post-list {
+	list-style: none;
+}
+
+.main-header {
+	background: #f7f7f7;
+}
+
+.home-page-related-posts {
+	background: #f7f7f7;
+	border-top: 5px solid #1098ad;
+	border-bottom: 5px solid #1098ad;
+	width: 35dvw;
+	height: 100%;
+}
+
+/* 
+    To override all styles on an element use !important
+ol li {
+	color: green !important;
+}
+
+    Pseudo classes
+ol li:first-child {
+	font-weight: 900;
+}
+
+ol li:last-child {
+	font-weight: 900;
+} 
+
+ul li:last-child {
+	font-style: italic;
+	text-transform: uppercase;
+	font-size: 1dvw;
+}
+
+li:nth-child(odd) {
+	color: red;
+}
+
+li:nth-child(even) {
+	color: yellowgreen;
+}
+*/
